@@ -12,7 +12,10 @@ O programa foi desenvolvido em Python tanto em inglês (shopping_list.py) quanto
 
 ## Demonstration 🖥️🐍/ Demonstração 🖥️🐍
 
-![inserting_items]()
-![listing_items]()
-![deleting_items]()
-![possible_user_error]()
+![inserting_items](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192306.png)
+![listing_items](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192345.png)
+![deleting_item_1](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192400.png)
+![deleting_item_2](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192446.png)
+![possible_user_error_1](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192515.png)
+![possible_user_error_2](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192549.png)
+![possible_user_error_3](https://github.com/Luisaphysics22/shopping_list/blob/main/demonstration/Screenshot%202024-08-05%20192607.png)
